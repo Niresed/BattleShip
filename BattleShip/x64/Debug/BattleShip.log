@@ -1,0 +1,49 @@
+﻿  BattleShip.cpp
+C:\Users\user\Desktop\BattleShip\BattleShip\Db.h(24,13): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Utils.h(26,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(65,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(65,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(104,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(104,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(108,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(108,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(112,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(112,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(116,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(116,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(120,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\Board.h(120,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\AI.h(52,22): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'BattleShip.cpp')
+  
+C:\Users\user\Desktop\BattleShip\BattleShip\BattleShip.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\BattleShip\BattleShip\AI.h(22,1): warning C4715: 'getRandAround': not all control paths return a value
+  BattleShip.vcxproj -> C:\Users\user\Desktop\BattleShip\x64\Debug\BattleShip.exe
