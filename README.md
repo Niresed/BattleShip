@@ -1,7 +1,7 @@
 # BattleShip
 it is my old homework, console version of the game battleship.
 
-The rules are the same as in the regular Battleship game Before starting the game, you can select 2 points for placing ships random or manual.
+The rules are the same as in the regular Battleship game before starting the game, you can select 2 points for placing ships random or manual.
 
 The game also has settings for changing symbols/colors/table sizes.
 
